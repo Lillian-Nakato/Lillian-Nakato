@@ -1,7 +1,7 @@
-## Hi there 👋
+Hi there 👋
 I'm Lillian Nakato Bagalya
 Software Engineer | Django Developer | Full-Stack Learner | Tech Explorer
-I’m driven by the quiet thrill of turning ideas into working systems — the kind that solve real problems for real people. My journey started with curiosity and grew into a passion for building applications that are clean, reliable, and a little bit delightful.
+I’m driven by the quiet thrill of turning ideas into working systems,the kind that solve real problems for real people. My journey started with curiosity and grew into a passion for building applications that are clean, reliable, and a little bit delightful.
 From crafting REST APIs to building digital tools for audits and inventory management, I love working on solutions that bring order, insight, and automation to everyday workflows.
 
 🔭 I’m currently working on ICPAU Audit Tool – A secure, ISA-compliant audit documentation system built with Django + DRF
