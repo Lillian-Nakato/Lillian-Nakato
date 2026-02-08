@@ -1,43 +1,21 @@
-Hi there 👋
-I'm Lillian Nakato Bagalya
-Software Engineer | Django Developer | Full-Stack Learner | Tech Explorer
-I’m driven by the quiet thrill of turning ideas into working systems,the kind that solve real problems for real people. My journey started with curiosity and grew into a passion for building applications that are clean, reliable, and a little bit delightful.
-From crafting REST APIs to building digital tools for audits and inventory management, I love working on solutions that bring order, insight, and automation to everyday workflows.
-
-🔭 I’m currently working on ICPAU Audit Tool – A secure, ISA-compliant audit documentation system built with Django + DRF
-Karibu Grocery Inventory System – Sales tracking, stock management, and real-time analytics for a retail business
-Inventory Management Web App – Automated stock deduction, receipt generation & store operations workflows
-Personal Portfolio Website – Showcasing my projects, skills, and software engineering journey
-
+👋 Hi, I’m Lillian Nakato Bagalya
+Software Engineer, Backend Specialist
+I build clean, reliable, and scalable systems that turn complex workflows into simple, intuitive digital experiences. My work focuses on backend engineering, API design, and automation—crafting solutions that bring structure, insight, and efficiency to real-world operations.
+🔭 Current Work
+- ICPAU Audit Tool – Secure, ISA‑compliant audit documentation platform (Django + DRF)
+- Karibu Grocery System – Inventory, sales tracking, and real‑time analytics
+- Inventory Management Web App – Automated stock control & operational workflows
+- Personal Portfolio – Showcasing my engineering journey and projects
 🛠 Tech Stack
-Backend -Python • Django • Django REST Framework PostgreSQL • MySQL • SQLite
-Frontend-HTML • CSS • JavaScript React • Tailwind • Bootstrap
-Testing / Automation-Pytest Selenium ,Behave (BDD / Gherkin)
-Tools & Platforms-Git & GitHub,VS Code
-Railway • Render • Netlify
-Word • Excel • Notion
-
+Backend: Python, Django, DRF, PostgreSQL, MySQL
+Frontend: HTML, CSS, JavaScript, React, Tailwind
+Testing: Pytest, Selenium, Behave (BDD)
+Tools: Git/GitHub, VS Code, Railway, Render, Netlify
 💬 Ask Me About
-Building Django apps from scratch
-Designing REST APIs & serializers
-Role-based access control
-Database design & optimization
-Deployment (Railway, Render, Netlify,Digital Ocean)
-Writing BDD scenarios with Gherkin
-UI/UX-aware development
-
-🤝 Looking to Collaborate On
-Django inventory or management systems
-API-driven applications
-Full-stack projects using Django + React
-Automation tools or small business digital solutions
-
-📫 How to Reach Me
+Django app architecture • REST API design • Role‑based access control • Database optimization • Deployment workflows • BDD with Gherkin • UI/UX‑aware development
+🤝 Open to Collaborations
+📫 Contact
 Email: lillianashley2001@gmail.com
-LinkedIn: https://www.linkedin.com/in/lillian-nakato-504b7b347/
-
+LinkedIn: linkedin.com/in/lillian-nakato-504b7b347
 ⚡ Fun Facts
-I can vanish bugs that look impossible at first glance ✨
-I moved from beginner to building complete systems—one line of code at a time
-I enjoy teaching and helping others debug Django apps
-Nothing beats the feeling of a passing test or a green deployment 🔥
+I debug with precision, teach with passion, and celebrate every green test with pride.
